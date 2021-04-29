@@ -1,0 +1,30 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(56, 58, 65);
+}
+
+section {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgb(139, 138, 142);
+  height: 60vh;
+  width: 35vw;
+  margin: auto;
+  font-size: calc(5px + 2vmin);
+  color: white;
+  box-shadow: -1vh 1vw 2vw 10vh rgb(139, 138, 142);
+  opacity: .8;
+  border-radius: 1.5vh;
+}
+
+section article h1 {
+  color: black;
+}
+
+
+
+
